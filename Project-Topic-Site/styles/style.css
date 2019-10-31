@@ -1,0 +1,48 @@
+html{
+    
+    
+}
+
+h1 {
+    font-size: 72px;
+    font-family: 'Revalia', cursive;
+    color: #FDDADB;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+    color: #FDDADB;
+}
+
+img {
+    height: 681px;
+    width: 1200px;
+    margin: 0 auto;
+    vertical-align: left;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+    
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #8F2225;
+  padding: 0 20px 20px 20px; 
+    
+}
