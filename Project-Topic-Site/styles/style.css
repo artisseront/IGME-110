@@ -9,6 +9,11 @@ h1 {
     color: #FDDADB;
 }
 
+h2, h3 {
+    font-family: 'Revalia', cursive;
+    color: #FDDADB;
+}
+
 .column {
   float: left;
   width: 50%;
