@@ -3,6 +3,14 @@ html{
     
 }
 
+a:link {
+    color:#F87979;
+}
+
+a:visited {
+    color:#3C0606;
+}
+
 h1 {
     font-size: 72px;
     font-family: 'Revalia', cursive;
